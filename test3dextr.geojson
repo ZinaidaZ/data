@@ -92,6 +92,44 @@
       },
       "id": "08a10ab2bf15c4d14669b588f62f7f08"
     },
+ {
+      "type": "Feature",
+      "properties": {
+        "level": 2,
+        "name": "inner_center_wall",
+        "height": 80,
+        "base_height": 40,
+        "color": "blue"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -87.61703961352855,
+              41.86684899677505
+            ],
+            [
+              -87.61703961352855,
+              41.86558918219703
+            ],
+            [
+              -87.61699458169811,
+              41.86558918219703
+            ],
+            [
+              -87.61699458169811,
+              41.86684899677505
+            ],
+            [
+              -87.61703961352855,
+              41.86684899677505
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "08a10ab2bf15c4d14669b588f62f7f10"
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1029,6 +1067,24 @@
         "type": "Polygon"
       },
       "id": "dd2baec57e4079eb65dcae5be495ra62"
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "level": 2,
+        "name": "table1",
+        "height": 41.5,
+        "base_height": 40,
+        "color": "red"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.61683337739429,
+          41.86646809976389
+        ],
+        "type": "Point"
+ },
+      "id": "dd2baec57e4079eb65dcae5be495ra23"
     },
     {
       "type": "Feature",
