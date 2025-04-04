@@ -98,8 +98,8 @@
         "level": 2,
         "name": "inner_center_wall",
         "height": 80,
-        "base_height": 40,
-        "color": "blue"
+        "base_height": 42,
+        "color": "red"
       },
       "geometry": {
         "coordinates": [
