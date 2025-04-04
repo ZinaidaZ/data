@@ -251,6 +251,43 @@
         "type": "Polygon"
       },
       "id": "369f5d8865e677120b7576b1df6082eb"
+    },{
+      "type": "Feature",
+      "properties": {
+        "level": 2,
+        "name": "Atrium2",
+        "base_height": 40,
+        "height": 45,
+        "color": "red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -87.617365,
+              41.865799
+            ],
+            [
+              -87.6167,
+              41.865815
+            ],
+            [
+              -87.616718,
+              41.866672
+            ],
+            [
+              -87.617384,
+              41.86667
+            ],
+            [
+              -87.617365,
+              41.865799
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "369f5d8865e677120b7576b1df6082gg"
     },
     {
       "type": "Feature",
