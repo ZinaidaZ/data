@@ -129,22 +129,6 @@
         "type": "Polygon"
       },
       "id": "09eadf4537d94ece576c7bc001c33e53"
-    },{
-      "type": "Feature",
-      "properties": {
-        "level": 1,
-        "name": "table1",
-        "height": 41.5,
-        "base_height": 40,
-        "color": "red"
-      },
-      "geometry": {
-        "coordinates": [
-          -87.61683337739429,
-          41.86646809976389
-        ],
-        "type": "Point"  },
-      "id": "09eadf4537d94ece576c7bc001vv3e53"
     },
     {
       "type": "Feature",
